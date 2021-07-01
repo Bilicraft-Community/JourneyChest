@@ -1,0 +1,9 @@
+name: JourneyChest
+version: ${project.version}
+main: com.bilicraft.journeychest.JourneyChest
+api-version: 1.17
+description: 收集特拉姆大陆上的旅行者们的留言
+commands:
+  journeychest:
+    usage: /journeychest
+    description: 插件主命令
